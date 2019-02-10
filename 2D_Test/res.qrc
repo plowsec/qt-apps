@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fond">
+        <file>horloge.gif</file>
+    </qresource>
+</RCC>
