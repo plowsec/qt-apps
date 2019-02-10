@@ -2,6 +2,17 @@
 
 A collection of Qt4 dekstop applications / games I made in 2011.
 
+# Screenshots
+Here are some screenshots of the only 2 finished apps.
+
+## Sokoban
+
+![alt text](https://raw.githubusercontent.com/plowsec/qt-apps/master/sokoban.png)
+
+## Bloc-Note
+![alt text](https://raw.githubusercontent.com/plowsec/qt-apps/master/bloc-note.png)
+
+
 # Content
 
 * bloc-note: a note taking app
